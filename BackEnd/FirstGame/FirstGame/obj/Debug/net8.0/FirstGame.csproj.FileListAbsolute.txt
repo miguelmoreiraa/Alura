@@ -1,0 +1,15 @@
+C:\Users\Miguel\Documents\Estudos\Alura\BackEnd\FirstGame\FirstGame\bin\Debug\net8.0\FirstGame.exe
+C:\Users\Miguel\Documents\Estudos\Alura\BackEnd\FirstGame\FirstGame\bin\Debug\net8.0\FirstGame.deps.json
+C:\Users\Miguel\Documents\Estudos\Alura\BackEnd\FirstGame\FirstGame\bin\Debug\net8.0\FirstGame.runtimeconfig.json
+C:\Users\Miguel\Documents\Estudos\Alura\BackEnd\FirstGame\FirstGame\bin\Debug\net8.0\FirstGame.dll
+C:\Users\Miguel\Documents\Estudos\Alura\BackEnd\FirstGame\FirstGame\bin\Debug\net8.0\FirstGame.pdb
+C:\Users\Miguel\Documents\Estudos\Alura\BackEnd\FirstGame\FirstGame\obj\Debug\net8.0\FirstGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Documents\Estudos\Alura\BackEnd\FirstGame\FirstGame\obj\Debug\net8.0\FirstGame.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\Estudos\Alura\BackEnd\FirstGame\FirstGame\obj\Debug\net8.0\FirstGame.AssemblyInfo.cs
+C:\Users\Miguel\Documents\Estudos\Alura\BackEnd\FirstGame\FirstGame\obj\Debug\net8.0\FirstGame.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\Estudos\Alura\BackEnd\FirstGame\FirstGame\obj\Debug\net8.0\FirstGame.sourcelink.json
+C:\Users\Miguel\Documents\Estudos\Alura\BackEnd\FirstGame\FirstGame\obj\Debug\net8.0\FirstGame.dll
+C:\Users\Miguel\Documents\Estudos\Alura\BackEnd\FirstGame\FirstGame\obj\Debug\net8.0\refint\FirstGame.dll
+C:\Users\Miguel\Documents\Estudos\Alura\BackEnd\FirstGame\FirstGame\obj\Debug\net8.0\FirstGame.pdb
+C:\Users\Miguel\Documents\Estudos\Alura\BackEnd\FirstGame\FirstGame\obj\Debug\net8.0\FirstGame.genruntimeconfig.cache
+C:\Users\Miguel\Documents\Estudos\Alura\BackEnd\FirstGame\FirstGame\obj\Debug\net8.0\ref\FirstGame.dll
